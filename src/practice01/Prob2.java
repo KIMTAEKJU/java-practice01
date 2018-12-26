@@ -11,7 +11,6 @@ public class Prob2
 			for (int j = i; j <= max; j++)
 				System.out.print(j + " ");
 			System.out.println();
-			System.out.println(" ");
 			
 			max++; // 최댓값 1씩 증가
 		}
