@@ -8,7 +8,7 @@ public class Prob1 {
 		
 		int userInput = 0;
 		
-		System.out.print("수를 입려하시오 : ");
+		System.out.print("수를 입력하시오 : ");
 		userInput = scanner.nextInt();
 		
 		if (userInput % 3 == 0)
